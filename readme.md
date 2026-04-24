@@ -1,6 +1,6 @@
 # FastAPI WebSocket Monitoring Dashboard
 
-Real-time server monitoring dashboard built at Idelji (2021-Present). FastAPI backend, WebSocket streaming, Chart.js frontend with dark/light mode.
+Real-time server monitoring dashboard. FastAPI backend, WebSocket streaming, Chart.js frontend with dark/light mode.
 
 ## My Contributions (Idelji)
 - Architected real-time metrics collection system processing server telemetry via WebSocket
